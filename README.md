@@ -102,6 +102,18 @@
 *Here are all the themes currently available on my self-hosted view counter API!*
 
 <div align="center">
+  <h4>Theme: Ladybug (New! AI Sprites)</h4>
+  <img src="https://live-counter-n898.onrender.com/count/preview_ladybug?theme=ladybug&v=2" />
+</div>
+<br>
+
+<div align="center">
+  <h4>Theme: Forest Tree (New! AI Sprites)</h4>
+  <img src="https://live-counter-n898.onrender.com/count/preview_tree?theme=tree&v=2" />
+</div>
+<br>
+
+<div align="center">
   <h4>Theme: Minecraft (New! AI Sprites)</h4>
   <img src="https://live-counter-n898.onrender.com/count/preview_minecraft?theme=minecraft&v=2" />
 </div>
