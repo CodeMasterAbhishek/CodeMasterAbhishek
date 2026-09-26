@@ -9,7 +9,7 @@
 
 <div align="center">
   <h4>Profile View</h4>
-  <img src="https://count.getloli.com/@CodeMasterAbhishek?name=CodeMasterAbhishek&theme=normal-2&padding=7&offset=0&align=top&scale=1&pixelated=1" alt="Profile Views" />
+  <img src="https://count.getloli.com/@CodeMasterAbhishek?name=CodeMasterAbhishek&theme=normal-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="Profile Views" />
 </div>
 
 ---
@@ -82,11 +82,11 @@
 
 ### GitHub Stats
 
-<p>
+<div align="center">
   <a href="https://github.com/CodeMasterAbhishek">
     <img src="https://streak-stats.demolab.com?user=CodeMasterAbhishek&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
-</p>
+</div>
 
 ### Featured Projects
 
