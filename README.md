@@ -102,6 +102,24 @@
 *Here are all the themes currently available on my self-hosted view counter API!*
 
 <div align="center">
+  <h4>Theme: Minecraft (New! AI Sprites)</h4>
+  <img src="https://live-counter-n898.onrender.com/count/preview_minecraft?theme=minecraft&v=2" />
+</div>
+<br>
+
+<div align="center">
+  <h4>Theme: Doraemon (New! AI Sprites)</h4>
+  <img src="https://live-counter-n898.onrender.com/count/preview_doraemon?theme=doraemon&v=2" />
+</div>
+<br>
+
+<div align="center">
+  <h4>Theme: Stardew Valley (New! AI Sprites)</h4>
+  <img src="https://live-counter-n898.onrender.com/count/preview_stardew?theme=stardew&v=2" />
+</div>
+<br>
+
+<div align="center">
   <h4>Theme: Cyberpunk (New! AI Sprites)</h4>
   <img src="https://live-counter-n898.onrender.com/count/preview_cyber?theme=cyber&v=2" />
 </div>
