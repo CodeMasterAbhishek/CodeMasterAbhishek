@@ -102,6 +102,18 @@
 *Here are all the themes currently available on my self-hosted view counter API!*
 
 <div align="center">
+  <h4>Theme: Cyberpunk (New! AI Sprites)</h4>
+  <img src="https://live-counter-n898.onrender.com/count/preview_cyber?theme=cyber&v=2" />
+</div>
+<br>
+
+<div align="center">
+  <h4>Theme: 3D Gold (New! AI Sprites)</h4>
+  <img src="https://live-counter-n898.onrender.com/count/preview_gold?theme=gold&v=2" />
+</div>
+<br>
+
+<div align="center">
   <h4>Theme: Anime</h4>
   <img src="https://live-counter-n898.onrender.com/count/preview_anime?theme=anime&v=2" />
 </div>
