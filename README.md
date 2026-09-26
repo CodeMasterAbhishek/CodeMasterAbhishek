@@ -9,7 +9,7 @@
 
 <div align="center">
   <h4>Profile View</h4>
-  <img src="https://count.getloli.com/@CodeMasterAbhishek?name=CodeMasterAbhishek_v2&theme=normal-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="Profile Views" />
+  <img src="https://live-counter-n898.onrender.com/count/CodeMasterAbhishek?theme=anime" alt="Profile Views" />
 </div>
 
 ---
@@ -101,16 +101,52 @@
 ### 🎨 Live Counter Theme Gallery
 *Here are all the themes currently available on my self-hosted view counter API!*
 
-| Theme Name | Preview |
-| :--- | :--- |
-| **anime** (New! AI Sprites) | <img src="https://live-counter-n898.onrender.com/count/preview_anime?theme=anime" /> |
-| **arcade** (Image based) | <img src="https://live-counter-n898.onrender.com/count/preview_arcade?theme=arcade" /> |
-| **scifi** (Image based) | <img src="https://live-counter-n898.onrender.com/count/preview_scifi?theme=scifi" /> |
-| **neon** (Text based) | <img src="https://live-counter-n898.onrender.com/count/preview_neon?theme=neon" /> |
-| **hacker** (Text based) | <img src="https://live-counter-n898.onrender.com/count/preview_hacker?theme=hacker" /> |
-| **8bit** (Text based) | <img src="https://live-counter-n898.onrender.com/count/preview_8bit?theme=8bit" /> |
-| **classic** (Text based) | <img src="https://live-counter-n898.onrender.com/count/preview_classic?theme=classic" /> |
-| **minimal** (Text based) | <img src="https://live-counter-n898.onrender.com/count/preview_minimal?theme=minimal" /> |
+<div align="center">
+  <h4>Theme: Anime</h4>
+  <img src="https://live-counter-n898.onrender.com/count/preview_anime?theme=anime" />
+</div>
+<br>
+
+<div align="center">
+  <h4>Theme: Arcade</h4>
+  <img src="https://live-counter-n898.onrender.com/count/preview_arcade?theme=arcade" />
+</div>
+<br>
+
+<div align="center">
+  <h4>Theme: Scifi</h4>
+  <img src="https://live-counter-n898.onrender.com/count/preview_scifi?theme=scifi" />
+</div>
+<br>
+
+<div align="center">
+  <h4>Theme: Neon</h4>
+  <img src="https://live-counter-n898.onrender.com/count/preview_neon?theme=neon" />
+</div>
+<br>
+
+<div align="center">
+  <h4>Theme: Hacker</h4>
+  <img src="https://live-counter-n898.onrender.com/count/preview_hacker?theme=hacker" />
+</div>
+<br>
+
+<div align="center">
+  <h4>Theme: 8Bit</h4>
+  <img src="https://live-counter-n898.onrender.com/count/preview_8bit?theme=8bit" />
+</div>
+<br>
+
+<div align="center">
+  <h4>Theme: Classic</h4>
+  <img src="https://live-counter-n898.onrender.com/count/preview_classic?theme=classic" />
+</div>
+<br>
+
+<div align="center">
+  <h4>Theme: Minimal</h4>
+  <img src="https://live-counter-n898.onrender.com/count/preview_minimal?theme=minimal" />
+</div>
 
 <div align="center">
   <i>Committed to engineering excellence.</i>
