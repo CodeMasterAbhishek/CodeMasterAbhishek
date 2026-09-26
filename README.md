@@ -97,6 +97,20 @@
 * **[Daily-Dose-of-TMOCK](https://github.com/CodeMasterAbhishek/Daily-Dose-of-TMOCK)** - A highly optimized, serverless streaming frontend architected for organizing YouTube content with zero ongoing infrastructure costs.
 
 ---
+
+### 🎨 Live Counter Theme Gallery
+*Here are all the themes currently available on my self-hosted view counter API!*
+
+| Theme Name | Preview |
+| :--- | :--- |
+| **arcade** (Image based) | <img src="https://live-counter-n898.onrender.com/count/preview_arcade?theme=arcade" /> |
+| **scifi** (Image based) | <img src="https://live-counter-n898.onrender.com/count/preview_scifi?theme=scifi" /> |
+| **neon** (Text based) | <img src="https://live-counter-n898.onrender.com/count/preview_neon?theme=neon" /> |
+| **hacker** (Text based) | <img src="https://live-counter-n898.onrender.com/count/preview_hacker?theme=hacker" /> |
+| **8bit** (Text based) | <img src="https://live-counter-n898.onrender.com/count/preview_8bit?theme=8bit" /> |
+| **classic** (Text based) | <img src="https://live-counter-n898.onrender.com/count/preview_classic?theme=classic" /> |
+| **minimal** (Text based) | <img src="https://live-counter-n898.onrender.com/count/preview_minimal?theme=minimal" /> |
+
 <div align="center">
   <i>Committed to engineering excellence.</i>
 </div>
