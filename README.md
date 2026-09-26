@@ -9,7 +9,7 @@
 
 <div align="center">
   <h4>Profile View</h4>
-  <img src="https://live-counter-n898.onrender.com/count/CodeMasterAbhishek?theme=anime" alt="Profile Views" />
+  <img src="https://count.getloli.com/@CodeMasterAbhishek?name=CodeMasterAbhishek_v2&theme=normal-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="Profile Views" />
 </div>
 
 ---
