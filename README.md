@@ -103,49 +103,49 @@
 
 <div align="center">
   <h4>Theme: Anime</h4>
-  <img src="https://live-counter-n898.onrender.com/count/preview_anime?theme=anime" />
+  <img src="https://live-counter-n898.onrender.com/count/preview_anime?theme=anime&v=2" />
 </div>
 <br>
 
 <div align="center">
   <h4>Theme: Arcade</h4>
-  <img src="https://live-counter-n898.onrender.com/count/preview_arcade?theme=arcade" />
+  <img src="https://live-counter-n898.onrender.com/count/preview_arcade?theme=arcade&v=2" />
 </div>
 <br>
 
 <div align="center">
   <h4>Theme: Scifi</h4>
-  <img src="https://live-counter-n898.onrender.com/count/preview_scifi?theme=scifi" />
+  <img src="https://live-counter-n898.onrender.com/count/preview_scifi?theme=scifi&v=2" />
 </div>
 <br>
 
 <div align="center">
   <h4>Theme: Neon</h4>
-  <img src="https://live-counter-n898.onrender.com/count/preview_neon?theme=neon" />
+  <img src="https://live-counter-n898.onrender.com/count/preview_neon?theme=neon&v=2" />
 </div>
 <br>
 
 <div align="center">
   <h4>Theme: Hacker</h4>
-  <img src="https://live-counter-n898.onrender.com/count/preview_hacker?theme=hacker" />
+  <img src="https://live-counter-n898.onrender.com/count/preview_hacker?theme=hacker&v=2" />
 </div>
 <br>
 
 <div align="center">
   <h4>Theme: 8Bit</h4>
-  <img src="https://live-counter-n898.onrender.com/count/preview_8bit?theme=8bit" />
+  <img src="https://live-counter-n898.onrender.com/count/preview_8bit?theme=8bit&v=2" />
 </div>
 <br>
 
 <div align="center">
   <h4>Theme: Classic</h4>
-  <img src="https://live-counter-n898.onrender.com/count/preview_classic?theme=classic" />
+  <img src="https://live-counter-n898.onrender.com/count/preview_classic?theme=classic&v=2" />
 </div>
 <br>
 
 <div align="center">
   <h4>Theme: Minimal</h4>
-  <img src="https://live-counter-n898.onrender.com/count/preview_minimal?theme=minimal" />
+  <img src="https://live-counter-n898.onrender.com/count/preview_minimal?theme=minimal&v=2" />
 </div>
 
 <div align="center">
