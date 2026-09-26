@@ -102,6 +102,36 @@
 *Here are all the themes currently available on my self-hosted view counter API!*
 
 <div align="center">
+  <h4>Theme: Cyberpunk Neon (Pure SVG)</h4>
+  <img src="https://live-counter-n898.onrender.com/count/preview_neon?theme=neon" />
+</div>
+<br>
+
+<div align="center">
+  <h4>Theme: Sci-Fi Matrix (Pure SVG)</h4>
+  <img src="https://live-counter-n898.onrender.com/count/preview_matrix?theme=matrix" />
+</div>
+<br>
+
+<div align="center">
+  <h4>Theme: Minimalist Strokes (Pure SVG)</h4>
+  <img src="https://live-counter-n898.onrender.com/count/preview_minimal?theme=minimal" />
+</div>
+<br>
+
+<div align="center">
+  <h4>Theme: 8-Bit Retro (Pure SVG)</h4>
+  <img src="https://live-counter-n898.onrender.com/count/preview_retro?theme=retro" />
+</div>
+<br>
+
+<div align="center">
+  <h4>Theme: 3D Gold Text (Pure SVG)</h4>
+  <img src="https://live-counter-n898.onrender.com/count/preview_gold3d?theme=gold3d" />
+</div>
+<br>
+
+<div align="center">
   <h4>Theme: Fluffy Cats (New! 2x5 Grid Sprites)</h4>
   <img src="https://live-counter-n898.onrender.com/count/preview_cat?theme=cat&v=4" />
 </div>
