@@ -102,6 +102,18 @@
 *Here are all the themes currently available on my self-hosted view counter API!*
 
 <div align="center">
+  <h4>Theme: Fluffy Cats (New! 2x5 Grid Sprites)</h4>
+  <img src="https://live-counter-n898.onrender.com/count/preview_cat?theme=cat&v=4" />
+</div>
+<br>
+
+<div align="center">
+  <h4>Theme: Tropical Fish (New! 2x5 Grid Sprites)</h4>
+  <img src="https://live-counter-n898.onrender.com/count/preview_fish?theme=fish&v=4" />
+</div>
+<br>
+
+<div align="center">
   <h4>Theme: Galaxy Space (New! AI Sprites)</h4>
   <img src="https://live-counter-n898.onrender.com/count/preview_space?theme=space&v=3" />
 </div>
