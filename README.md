@@ -7,9 +7,10 @@
   A dedicated developer specializing in building scalable software architectures, interactive game experiences, and robust system-level applications. Bridging the gap between high-level application logic and low-level hardware performance.
 </p>
 
-<p align="center">
+<div align="center">
+  <h4>Profile View</h4>
   <img src="https://count.getloli.com/@CodeMasterAbhishek?name=CodeMasterAbhishek&theme=normal-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views" />
-</p>
+</div>
 
 ---
 
