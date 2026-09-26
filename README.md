@@ -103,6 +103,7 @@
 
 | Theme Name | Preview |
 | :--- | :--- |
+| **anime** (New! AI Sprites) | <img src="https://live-counter-n898.onrender.com/count/preview_anime?theme=anime" /> |
 | **arcade** (Image based) | <img src="https://live-counter-n898.onrender.com/count/preview_arcade?theme=arcade" /> |
 | **scifi** (Image based) | <img src="https://live-counter-n898.onrender.com/count/preview_scifi?theme=scifi" /> |
 | **neon** (Text based) | <img src="https://live-counter-n898.onrender.com/count/preview_neon?theme=neon" /> |
