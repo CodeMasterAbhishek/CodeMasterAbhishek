@@ -102,6 +102,18 @@
 *Here are all the themes currently available on my self-hosted view counter API!*
 
 <div align="center">
+  <h4>Theme: Galaxy Space (New! AI Sprites)</h4>
+  <img src="https://live-counter-n898.onrender.com/count/preview_space?theme=space&v=3" />
+</div>
+<br>
+
+<div align="center">
+  <h4>Theme: Electric Mouse (New! AI Sprites)</h4>
+  <img src="https://live-counter-n898.onrender.com/count/preview_mouse?theme=mouse&v=3" />
+</div>
+<br>
+
+<div align="center">
   <h4>Theme: Ladybug (New! AI Sprites)</h4>
   <img src="https://live-counter-n898.onrender.com/count/preview_ladybug?theme=ladybug&v=2" />
 </div>
