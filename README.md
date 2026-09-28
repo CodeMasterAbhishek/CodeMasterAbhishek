@@ -10,7 +10,7 @@
 <div align="center">
   <h4>Profile View</h4>
   <a href="https://github.com/CodeMasterAbhishek/Live-counter">
-    <img src="https://live-counter-n898.onrender.com/count/CodeMasterAbhishek?theme=dungeon_rpg&gap=-10&pad=5" alt="Live Counter" />
+    <img src="https://live-counter-n898.onrender.com/count/CodeMasterAbhishek?theme=dungeon_rpg&pad=8" alt="Live Counter" />
   </a>
 </div>
 
