@@ -12,6 +12,8 @@
   <a href="https://github.com/CodeMasterAbhishek/Live-counter">
     <img src="https://live-counter-n898.onrender.com/count/CodeMasterAbhishek?theme=dungeon_rpg&pad=8" alt="Live Counter" />
   </a>
+  <br>
+  <sub>⚡ Powered by my open-source <a href="https://github.com/CodeMasterAbhishek/Live-counter">Live-Counter</a> API</sub>
 </div>
 
 ---
